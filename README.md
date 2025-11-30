@@ -24,13 +24,17 @@
 
 <div align="center">
 
-## 💫 About Me
+## 🌟 About Me
 
-🚀 Building **modern MERN web applications**  
-🌱 Learning **Python & backend architecture**  
-💬 Enjoy working with **React, Node & UI design**  
-📫 **im.zairaz@gmail.com**  
-⚡ Fun fact → *My code looks better at midnight* 🌙  
+I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, with a strong focus on building performant, scalable, and visually stunning web applications.
+
+ 🔭 Currently enhancing backend architecture & system design skills  
+ 🌱 Exploring **Python, Django, and Cloud Technologies (Azure)**  
+ 🎨 Love crafting intuitive UIs with **React, Tailwind, and modern animations**  
+ 💬 Ask me about **React, Node.js, MongoDB, or UI/UX best practices**  
+ ⚡ Fun fact: *I write my cleanest code after midnight* 🌙
+
+---
 
 📄 **Resume**  
 👉 [View My CV](https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view)
@@ -196,4 +200,14 @@ Online appointment and caregiver hiring platform with profile management and sch
 <h2 align="center">🌟 Let’s Build Something Beautiful Together 🌟</h2>
 
 <p align="center"><i>Design • Develop • Deploy</i></p>
+
+
+### 🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
