@@ -36,8 +36,9 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, wi
 
 ---
 
-📄 **Resume**  
-👉 [View My CV](https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view)
+<a href="https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?logo=google-drive&logoColor=white&style=flat-square" alt="Resume" />
+  </a>
 
 </div>
 
@@ -171,12 +172,13 @@ Online appointment and caregiver hiring platform with profile management and sch
 
 <!-- ================= SNAKE ================= -->
 
+## 🐍 Contribution Graph
 <div align="center">
-
-## 🐍 Contribution Flow
-
-<img src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -202,12 +204,5 @@ Online appointment and caregiver hiring platform with profile management and sch
 <p align="center"><i>Design • Develop • Deploy</i></p>
 
 
-### 🐍 Contribution Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
-  </picture>
-</div>
+
 
