@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
 <p align="center">
@@ -26,13 +26,13 @@
 
 ## 💫 About Me
 
-🚀 Crafting **modern MERN web applications**  
-🌱 Exploring **Python & backend architecture**  
-💬 Love discussing **React, Node & UI design**  
+🚀 Building **modern MERN web applications**  
+🌱 Learning **Python & backend architecture**  
+💬 Enjoy working with **React, Node & UI design**  
 📫 **im.zairaz@gmail.com**  
-⚡ Fun fact → *My code looks better at midnight* 🌙  
+⚡ Fun fact → *My best code gets written after midnight* 🌙  
 
-📄 **Resume** →  
+📄 **Resume**  
 👉 [View My CV](https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view)
 
 </div>
@@ -51,21 +51,21 @@
 <td width="280" align="center">
 
 ### 🚀 MERN Developer  
-Modern full-stack apps using React, Node & MongoDB.
+Developing scalable full-stack applications using React, Node & MongoDB.
 
 </td>
 
 <td width="280" align="center">
 
 ### 🎨 UI Designer  
-Aesthetic interfaces with Tailwind, Figma & animations.
+Designing aesthetic, responsive interfaces using Tailwind, Figma & animations.
 
 </td>
 
 <td width="280" align="center">
 
 ### 🌱 Self-Learner  
-Always improving skills in Python, systems & architecture.
+Continuously improving skills in Python, system design & architecture.
 
 </td>
 
@@ -114,14 +114,13 @@ Always improving skills in Python, systems & architecture.
 
 <div align="center">
 
-## 📊 GitHub Vibes
+## 📊 GitHub Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&theme=tokyonight&hide_border=true" width="47%" />
 
 </div>
 
 ---
-
 <!-- ================= FEATURED PROJECTS ================= -->
 
 <div align="center">
@@ -131,31 +130,38 @@ Always improving skills in Python, systems & architecture.
 <table>
 <tr>
 
-<td width="300">
+<td width="300" align="center" valign="top">
 
-### 📚 BookHaven  
-Modern **Bookstore Management System** built in .NET with secure auth, inventory, and analytics dashboard.
-
-</td>
-
-<td width="300">
-
-### ⚽ Turf Management System  
-Smart booking platform with real-time availability, payments, notifications & weather sync.
+<div style="height:120px;">
+  
+### 📚 BookHaven
+A modern **Bookstore Management System** built with .NET featuring secure authentication, inventory control & analytics dashboards.
+</div>
 
 </td>
 
-<td width="300">
+<td width="300" align="center" valign="top">
 
-### 👩‍⚕️ Nurse Hiring System  
-Online platform for caregiver booking, profiles & appointment management.
+<div style="height:120px;">
+  
+### ⚽ Turf MS
+Smart booking platform with real-time availability, payments, notifications & weather integration.
+</div>
+
+</td>
+
+<td width="300" align="center" valign="top">
+
+<div style="height:120px;">
+  
+### 👩‍⚕️ Nurse Hiring System
+Online appointment and caregiver hiring platform with profile management and scheduling.
+</div>
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -175,7 +181,7 @@ Online platform for caregiver booking, profiles & appointment management.
 
 <div align="center">
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <a href="https://github.com/imzairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="38"></a>
 <a href="https://linkedin.com/in/zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"></a>
@@ -190,3 +196,4 @@ Online platform for caregiver booking, profiles & appointment management.
 <h2 align="center">🌟 Let’s Build Something Beautiful Together 🌟</h2>
 
 <p align="center"><i>Design • Develop • Deploy</i></p>
+
