@@ -171,7 +171,7 @@ Online appointment and caregiver hiring platform with profile management and sch
 
 ## 🐍 Contribution Flow
 
-<img src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
 
 </div>
 
