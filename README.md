@@ -159,6 +159,18 @@ Online platform for caregiver booking, profiles & appointment management.
 
 ---
 
+<!-- ================= SNAKE ================= -->
+
+<div align="center">
+
+## 🐍 Contribution Flow
+
+<img src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 <!-- ================= SOCIALS ================= -->
 
 <div align="center">
