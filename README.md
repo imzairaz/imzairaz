@@ -1,3 +1,5 @@
+<!-- ================= HERO ================= -->
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/imzairaz)
 
 <h1 align="center">✨ Hi, I'm Zairaz ✨</h1>
@@ -18,6 +20,8 @@
 
 ---
 
+<!-- ================= ABOUT ================= -->
+
 <div align="center">
 
 ## 💫 About Me
@@ -25,29 +29,54 @@
 🚀 Crafting **modern MERN web applications**  
 🌱 Exploring **Python & backend architecture**  
 💬 Love discussing **React, Node & UI design**  
-📫 Reach me → **im.zairaz@gmail.com**  
+📫 **im.zairaz@gmail.com**  
 ⚡ Fun fact → *My code looks better at midnight* 🌙  
 
-📄 **Resume**  
+📄 **Resume** →  
 👉 [View My CV](https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view)
 
 </div>
 
 ---
 
+<!-- ================= GLASS CARDS ================= -->
+
 <div align="center">
 
-## 🌐 Let's Connect
+## 🧊 What I Do
 
-<a href="https://github.com/imzairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="38"></a>
-<a href="https://linkedin.com/in/zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"></a>
-<a href="https://instagram.com/im.zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38"></a>
-<a href="https://fb.com/im.zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="38"></a>
-<a href="https://twitter.com/im_zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="38"></a>
+<table>
+<tr>
+
+<td width="280" align="center">
+
+### 🚀 MERN Developer  
+Modern full-stack apps using React, Node & MongoDB.
+
+</td>
+
+<td width="280" align="center">
+
+### 🎨 UI Designer  
+Aesthetic interfaces with Tailwind, Figma & animations.
+
+</td>
+
+<td width="280" align="center">
+
+### 🌱 Self-Learner  
+Always improving skills in Python, systems & architecture.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
+
+<!-- ================= SKILLS ================= -->
 
 <div align="center">
 
@@ -69,18 +98,83 @@
 
 ---
 
+<!-- ================= TROPHIES ================= -->
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=imzairaz&theme=tokyonight&no-frame=true&row=1" />
+
+</div>
+
+---
+
+<!-- ================= STATS ================= -->
+
 <div align="center">
 
 ## 📊 GitHub Vibes
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&theme=tokyonight&hide_border=true" width="47%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&hide_border=true&theme=tokyonight" width="47%"/>
+</div>
 
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="300">
+
+### 📚 BookHaven  
+Modern **Bookstore Management System** built in .NET with secure auth, inventory, and analytics dashboard.
+
+</td>
+
+<td width="300">
+
+### ⚽ Turf Management System  
+Smart booking platform with real-time availability, payments, notifications & weather sync.
+
+</td>
+
+<td width="300">
+
+### 👩‍⚕️ Nurse Hiring System  
+Online platform for caregiver booking, profiles & appointment management.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= SOCIALS ================= -->
+
+<div align="center">
+
+## 🌐 Connect
+
+<a href="https://github.com/imzairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="38"></a>
+<a href="https://linkedin.com/in/zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"></a>
+<a href="https://instagram.com/im.zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38"></a>
+<a href="https://fb.com/im.zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="38"></a>
+<a href="https://twitter.com/im_zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="38"></a>
+
+</div>
 
 ---
 
 <h2 align="center">🌟 Let’s Build Something Beautiful Together 🌟</h2>
 
-<p align="center">
-  <i>“Design. Develop. Deploy.”</i>
-</p>
+<p align="center"><i>Design • Develop • Deploy</i></p>
