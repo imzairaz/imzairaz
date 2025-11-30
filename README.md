@@ -165,7 +165,7 @@ Online platform for caregiver booking, profiles & appointment management.
 
 ## 🐍 Contribution Flow
 
-<img src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake.svg" />
 
 </div>
 
