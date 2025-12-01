@@ -102,17 +102,6 @@ Continuously improving skills in Python, system design & architecture.
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=imzairaz&theme=tokyonight&no-frame=true&row=1" />
-
-</div>
-
----
 
 <!-- ================= STATS ================= -->
 
