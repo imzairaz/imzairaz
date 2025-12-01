@@ -1,7 +1,5 @@
 <!-- ================= HERO ================= -->
-
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/imzairaz)
-![code_boy](https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0)
+[![code_boy](https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0)](https://github.com/imzairaz)
 
 <h1 align="center">Hi there 👋, I'm Zairaz</h1>
 
