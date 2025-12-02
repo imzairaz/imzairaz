@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/im_zairaz">
-    <img src="https://img.shields.io/twitter/follow/im_zairaz?logo=twitter&style=for-the-badge"/>
+  <a href="https://x.com/im_zairaz">
+    <img src="https://img.shields.io/twitter/follow/im_zairaz?logo=x&style=for-the-badge"/>
   </a>
 </p>
 
