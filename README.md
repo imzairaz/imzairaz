@@ -21,10 +21,10 @@
 
 I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, with a strong focus on building performant, scalable, and visually stunning web applications.
 
-- Currently enhancing backend architecture & system design skills
-- Exploring **Python, Django, and Cloud Technologies (Azure)**
-- Crafting intuitive UIs with **React, Tailwind, and modern animations**
-- Ask me about **React, Node.js, MongoDB, or UI/UX best practices**
+Currently enhancing backend architecture & system design skills.<br>
+Exploring **Python, Django, and Cloud Technologies (Azure)**.<br>
+Crafting intuitive UIs with **React, Tailwind, and modern animations**.<br>
+Ask me about **React, Node.js, MongoDB, or UI/UX best practices**.
 
 <br>
 
@@ -128,7 +128,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, w
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zairaz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.zairaz)
-[![X](https://img.shields.io/badge/Formaly_Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/im_zairaz)
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/im_zairaz)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/im.zairaz)
 
 </div>
