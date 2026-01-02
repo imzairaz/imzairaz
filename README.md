@@ -3,9 +3,7 @@
 
   <h1 align="center">Hi there, I'm Zairaz</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Architecting+Scalable+Web+Solutions;Crafting+Pixel-Perfect+User+Experiences" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&height=51&lines=Full+Stack+Developer;Architecting+Scalable+Web+Solutions;Crafting+Pixel-Perfect+User+Experiences)](https://git.io/typing-svg)
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
