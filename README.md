@@ -95,9 +95,6 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, w
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imzairaz&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
@@ -137,10 +134,8 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, w
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zairaz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.zairaz)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/im_zairaz)
+[![Formaly Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/im_zairaz)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/im.zairaz)
-
-</div>
 
 ---
 
