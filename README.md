@@ -1,164 +1,123 @@
-<!-- ================= HERO ================= -->
-[![code_boy](https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0)](https://github.com/imzairaz)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0" alt="Zairaz Profile" />
 
-<h1 align="center">Hi there 👋, I'm Zairaz</h1>
+  <h1 align="center">Hi there 👋, I'm Zairaz</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Developer;💎+Building+Clean+Web+Experiences;🌙+Always+Learning+New+Things" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Developer;💎+Building+Clean+Web+Experiences;🌙+Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  </p>
 
 <p align="center">
   <a href="https://x.com/im_zairaz">
     <img src="https://img.shields.io/twitter/follow/im_zairaz?logo=x&style=for-the-badge"/>
   </a>
 </p>
+</div>
 
 ---
-
-<!-- ================= ABOUT ================= -->
 
 <div align="center">
 
 ## 🌟 About Me
 
-I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, with a strong focus on building performant, scalable, and visually stunning web applications.
+I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, with a strong focus on building performant, scalable, and visually stunning web applications.
 
- 🔭 Currently enhancing backend architecture & system design skills  
- 🌱 Exploring **Python, Django, and Cloud Technologies (Azure)**  
- 🎨 Love crafting intuitive UIs with **React, Tailwind, and modern animations**  
- 💬 Ask me about **React, Node.js, MongoDB, or UI/UX best practices**  
- ⚡ Fun fact: *I write my cleanest code after midnight* 🌙
+ 🔭 Currently enhancing backend architecture & system design skills<br>
+ 🌱 Exploring **Python, Django, and Cloud Technologies (Azure)**<br>
+ 🎨 Love crafting intuitive UIs with **React, Tailwind, and modern animations**<br>
+ 💬 Ask me about **React, Node.js, MongoDB, or UI/UX best practices**<br>
+ ⚡ Fun fact: *I write my cleanest code after midnight* 🌙
 
----
+<br>
 
 <a href="https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view">
-    <img src="https://img.shields.io/badge/Resume-4285F4?logo=google-drive&logoColor=white&style=flat-square" alt="Resume" />
-  </a>
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+</a>
 
 </div>
 
 ---
 
-<!-- ================= GLASS CARDS ================= -->
+<div align="center">
+
+## 🛠️ Technical Stack
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frontend Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔮 Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### ⚙️ Tools, DevOps & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</div>
+
+---
 
 <div align="center">
 
-## 🧊 What I Do
+## 📊 GitHub Analytics
 
-<table>
-<tr>
-
-<td width="280" align="center">
-
-### 🚀 MERN Developer  
-Developing scalable full-stack applications using React, Node & MongoDB.
-
-</td>
-
-<td width="280" align="center">
-
-### 🎨 UI Designer  
-Designing aesthetic, responsive interfaces using Tailwind, Figma & animations.
-
-</td>
-
-<td width="280" align="center">
-
-### 🌱 Self-Learner  
-Continuously improving skills in Python, system design & architecture.
-
-</td>
-
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imzairaz&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 </div>
 
 ---
-
-<!-- ================= SKILLS ================= -->
-
-<div align="center">
-
-## 🛠️ Tech Universe
-
-### 🌈 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css,js,ts" />
-
-### 🔮 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,cs,java" />
-
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
-
-### ⚙️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,docker,azure,linux,postman,figma,photoshop,illustrator,xd,selenium" />
-
-</div>
-
----
-
-
-<!-- ================= STATS ================= -->
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&theme=tokyonight&hide_border=true" width="47%" />
-
-</div>
-
----
-<!-- ================= FEATURED PROJECTS ================= -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+| 📚 BookHaven | ⚽ Turf MS | 👩‍⚕️ Nurse Hiring System |
+|:---:|:---:|:---:|
+| **.NET Bookstore System** | **Smart Booking Platform** | **Caregiver Platform** |
+| Secure auth, inventory control & analytics dashboards. | Real-time availability, payments & weather integration. | Appointment scheduling & profile management. |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
-<td width="300" align="center" valign="top">
-
-<div style="height:120px;">
-  
-### 📚 BookHaven
-A modern **Bookstore Management System** built with .NET featuring secure authentication, inventory control & analytics dashboards.
 </div>
-
-</td>
-
-<td width="300" align="center" valign="top">
-
-<div style="height:120px;">
-  
-### ⚽ Turf MS
-Smart booking platform with real-time availability, payments, notifications & weather integration.
-</div>
-
-</td>
-
-<td width="300" align="center" valign="top">
-
-<div style="height:120px;">
-  
-### 👩‍⚕️ Nurse Hiring System
-Online appointment and caregiver hiring platform with profile management and scheduling.
-</div>
-
-</td>
-
-</tr>
-</table>
 
 ---
-
-<!-- ================= SNAKE ================= -->
 
 ## 🐍 Contribution Graph
 <div align="center">
@@ -171,26 +130,21 @@ Online appointment and caregiver hiring platform with profile management and sch
 
 ---
 
-<!-- ================= SOCIALS ================= -->
-
 <div align="center">
 
 ## 🌐 Connect With Me
 
-<a href="https://github.com/imzairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="38"></a>
-<a href="https://linkedin.com/in/zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"></a>
-<a href="https://instagram.com/im.zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38"></a>
-<a href="https://fb.com/im.zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="38"></a>
-<a href="https://twitter.com/im_zairaz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="38"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zairaz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.zairaz)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/im_zairaz)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/im.zairaz)
 
 </div>
 
 ---
 
-<h2 align="center">🌟 Let’s Build Something Beautiful Together 🌟</h2>
-
-<p align="center"><i>Design • Develop • Deploy</i></p>
-
-
-
-
+<p align="center">
+  <i>Design • Develop • Deploy</i><br>
+  <b>Let’s Build Something Beautiful Together 🌟</b>
+</p>
