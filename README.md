@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0" alt="Zairaz Profile" />
 
-  <h1 align="center">I'm Zairaz</h1>
+  <h1 align="center">Hi there, I'm Zairaz</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Clean+Web+Experiences;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Architecting+Scalable+Web+Solutions;Crafting+Pixel-Perfect+User+Experiences" alt="Typing SVG" />
   </a>
 
   <p align="center">
