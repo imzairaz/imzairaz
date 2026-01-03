@@ -82,7 +82,7 @@ Ask me about **React, Node.js, MongoDB, or UI/UX best practices**.
 
 ## GitHub Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imzairaz&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-psi-vert.vercel.app?user=imzairaz&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 </div>
 
