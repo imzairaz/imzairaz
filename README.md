@@ -82,13 +82,7 @@ Ask me about **React, Node.js, MongoDB, or UI/UX best practices**.
 
 ## GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imzairaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=imzairaz&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 </div>
 
