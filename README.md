@@ -65,11 +65,10 @@ Ask me about **React, Node.js, MongoDB & UI/UX**
 ### ☁️ DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
-![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Azure](https://img.shields.io/badge/Azure-21262d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-21262d?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
 
 </div>
 
