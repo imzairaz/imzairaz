@@ -1,27 +1,25 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/71bdece0-3a3a-4d9a-83ce-a5e48baac0b0" alt="Zairaz Profile" />
 
-  <h1 align="center">Hi there, I'm Zairaz</h1>
+  <h1>Hi there, I'm Zairaz</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&height=51&lines=Full+Stack+Developer;Architecting+Scalable+Web+Solutions;Crafting+Pixel-Perfect+User+Experiences)](https://git.io/typing-svg)
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=21262d&style=flat-square" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=imzairaz&label=Profile+Views&color=21262d&style=flat-square" />
 </div>
 
-<p align="center">• • •</p>
+<br>
 
 <div align="center">
 
 ## About Me
 
-I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, focused on building **scalable, performant, and visually stunning** web applications.
+I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, focused on building **scalable, performant, and visually refined** web applications.
 
-🔹 Enhancing backend architecture & system design  
-🔹 Exploring **Python, Django, and Cloud (Azure)**  
-🔹 Crafting modern UIs with **React & Tailwind CSS**  
-🔹 Ask me about **React, Node.js, MongoDB & UI/UX**
+Enhancing backend architecture & system design  
+Exploring **Python, Django, and Cloud (Azure)**  
+Crafting modern UIs with **React & Tailwind CSS**  
+Ask me about **React, Node.js, MongoDB & UI/UX**
 
 <br>
 
@@ -31,7 +29,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 
 </div>
 
-<p align="center">• • •</p>
+<br>
 
 <div align="center">
 
@@ -46,8 +44,6 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 ![CSharp](https://img.shields.io/badge/C%23-21262d?style=for-the-badge&logo=c-sharp&logoColor=239120)
 ![PHP](https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=777BB4)
 
----
-
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,8 +53,6 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262d?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 
----
-
 ### 🗄️ Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -67,8 +61,6 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/Firebase-21262d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
----
 
 ### ☁️ DevOps & Tools
 
@@ -81,7 +73,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 
 </div>
 
-<p align="center">• • •</p>
+<br>
 
 <div align="center">
 
@@ -91,7 +83,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 
 </div>
 
-<p align="center">• • •</p>
+<br>
 
 <div align="center">
 
@@ -105,19 +97,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 
 </div>
 
-<p align="center">• • •</p>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/imzairaz/imzairaz/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<p align="center">• • •</p>
+<br>
 
 <div align="center">
 
@@ -129,9 +109,9 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, f
 
 </div>
 
-<p align="center">• • •</p>
+<br>
 
 <p align="center">
   <i>Design • Develop • Deploy</i><br>
-  <b>Let’s Build Something Beautiful Together 🚀</b>
+  <b>Let’s Build Something Beautiful Together</b>
 </p>
