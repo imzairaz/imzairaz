@@ -103,6 +103,7 @@ Ask me about **React, Node.js, MongoDB & UI/UX**
 
 ## 🤝 Connect With Me
 
+[![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:im.zairaz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/zairaz)
 [![X](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/im_zairaz)
