@@ -1,1 +1,27 @@
+name: Update Space Shooter Game
 
+on:
+  schedule:
+    - cron: '0 0 * * *'      # Runs every day at midnight UTC
+  workflow_dispatch:         # Allows manual trigger from GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 2        # Very important!
+
+      - name: Generate Space Shooter Game
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'           # Change if you want another name
+          strategy: 'random'                # Options: random, row, column
+          fps: 35                           # 25-40 recommended
+          # no-amend: false                 # Uncomment to disable auto-amend
