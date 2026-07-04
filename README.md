@@ -18,16 +18,42 @@
 
 <div align="center">
 
-## About Me
+## 👨‍💻 About Me
 
-I am a passionate **Full-Stack Developer** specializing in the **MERN stack**, focused on building **scalable, performant, and visually refined** web applications.
+I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**,<br/>
+building **scalable, performant, and visually refined** web applications.
 
-Enhancing backend architecture & system design  
-Exploring **Python, Django, and Cloud (Azure)**  
-Crafting modern UIs with **React & Tailwind CSS**  
-Ask me about **React, Node.js, MongoDB & UI/UX**
+<br/>
 
-<br>
+<table>
+  <tr>
+    <td align="center">🔭</td>
+    <td><b>Working on</b></td>
+    <td>Enhancing backend architecture & system design</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><b>Exploring</b></td>
+    <td>Python, Django & Cloud (Azure)</td>
+  </tr>
+  <tr>
+    <td align="center">🎨</td>
+    <td><b>Crafting</b></td>
+    <td>Modern UIs with React & Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td><b>Ask me about</b></td>
+    <td>React, Node.js, MongoDB & UI/UX</td>
+  </tr>
+  <tr>
+    <td align="center">📫</td>
+    <td><b>Reach me at</b></td>
+    <td>im.zairaz@gmail.com</td>
+  </tr>
+</table>
+
+<br/>
 
 <a href="https://drive.google.com/file/d/1x62w4MDxSdT1zJh6zu6kuAOQdSN5rkGj/view">
   <img src="https://img.shields.io/badge/Resume-21262d?style=for-the-badge&logo=google-drive&logoColor=white" />
