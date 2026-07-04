@@ -20,7 +20,7 @@ jobs:
       - name: Generate Space Shooter Game
         uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.ZAI_TOKEN }}
           output-path: 'game.gif'           # Change if you want another name
           strategy: 'random'                # Options: random, row, column
           fps: 35                           # 25-40 recommended
