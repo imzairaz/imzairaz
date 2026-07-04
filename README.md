@@ -10,7 +10,11 @@
 
 <br>
 
+<div align="center">
+
 ![My GitHub Space Shooter](game.gif)
+
+</div>
 
 <div align="center">
 
@@ -82,6 +86,10 @@ Ask me about **React, Node.js, MongoDB & UI/UX**
 
 [![GitHub Streak](https://github-readme-streak-stats-psi-vert.vercel.app?user=imzairaz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imzairaz&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 <br>
@@ -90,11 +98,11 @@ Ask me about **React, Node.js, MongoDB & UI/UX**
 
 ## 🚀 Featured Projects
 
-| BookHaven | Turf MS | Nurse Hiring System |
+| 📚 BookHaven | ⚽ Turf MS | 🏥 Nurse Hiring System |
 |:--:|:--:|:--:|
 | **.NET Bookstore System** | **Smart Booking Platform** | **Caregiver Platform** |
-| Auth, inventory & analytics | Booking, payments & weather | Scheduling & profiles |
-| ![CSharp](https://img.shields.io/badge/C%23-21262d?style=flat-square&logo=c-sharp&logoColor=239120) | ![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) |
+| Auth, inventory & sales analytics | Court booking, payments & weather | Staff scheduling & profile management |
+| ![CSharp](https://img.shields.io/badge/C%23-21262d?style=flat-square&logo=c-sharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-21262d?style=flat-square&logo=dotnet&logoColor=512BD4) | ![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) | ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=4EA94B) |
 
 </div>
 
