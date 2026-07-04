@@ -98,6 +98,8 @@ Ask me about **React, Node.js, MongoDB & UI/UX**
 
 <br>
 
+![My GitHub Space Shooter](game.gif)
+
 <div align="center">
 
 ## 🤝 Connect With Me
