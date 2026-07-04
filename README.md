@@ -16,6 +16,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 ## 👨‍💻 About Me
@@ -101,7 +103,6 @@ building **scalable, performant, and visually refined** web applications.
 ![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-
 </div>
 
 <br>
@@ -147,7 +148,7 @@ building **scalable, performant, and visually refined** web applications.
 
 <br>
 
-<p align="center">
+<div align="center">
   <i>Design • Develop • Deploy</i><br>
   <b>Let’s Build Something Beautiful Together</b>
-</p>
+</div>
