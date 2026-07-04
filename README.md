@@ -10,6 +10,8 @@
 
 <br>
 
+![My GitHub Space Shooter](game.gif)
+
 <div align="center">
 
 ## About Me
@@ -97,8 +99,6 @@ Ask me about **React, Node.js, MongoDB & UI/UX**
 </div>
 
 <br>
-
-![My GitHub Space Shooter](game.gif)
 
 <div align="center">
 
