@@ -12,14 +12,6 @@
 
 <div align="center">
 
-![My GitHub Space Shooter](game.gif)
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**,<br/>
@@ -116,6 +108,12 @@ building **scalable, performant, and visually refined** web applications.
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imzairaz&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+
+![My GitHub Space Shooter](game.gif)
 
 </div>
 
