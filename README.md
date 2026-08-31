@@ -28,8 +28,7 @@
 Specializing in the **MERN stack** with a strong emphasis on backend architecture and pixel-perfect UIs.
 
 **Current Focus:** System Design, Backend Architecture & Cloud Infrastructure (Azure)<br/>
-**Always Exploring:** Python, Django & Modern Web Technologies<br/>
-**Reach Out:** [im.zairaz@gmail.com](mailto:im.zairaz@gmail.com)
+**Always Exploring:** Python, Django & Modern Web Technologies
 
 <br/>
 
