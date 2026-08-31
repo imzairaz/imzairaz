@@ -22,40 +22,14 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**,<br/>
-building **scalable, performant, and visually refined** web applications.
+**Full-Stack Developer** focused on building clean, scalable, and high-performance applications.<br/>
+Specializing in the **MERN stack** with a strong emphasis on backend architecture and pixel-perfect UIs.
 
-<br/>
-
-<table>
-  <tr>
-    <td align="center">🔭</td>
-    <td><b>Working on</b></td>
-    <td>Enhancing backend architecture & system design</td>
-  </tr>
-  <tr>
-    <td align="center">🌱</td>
-    <td><b>Exploring</b></td>
-    <td>Python, Django & Cloud (Azure)</td>
-  </tr>
-  <tr>
-    <td align="center">🎨</td>
-    <td><b>Crafting</b></td>
-    <td>Modern UIs with React & Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td align="center">💬</td>
-    <td><b>Ask me about</b></td>
-    <td>React, Node.js, MongoDB & UI/UX</td>
-  </tr>
-  <tr>
-    <td align="center">📫</td>
-    <td><b>Reach me at</b></td>
-    <td>im.zairaz@gmail.com</td>
-  </tr>
-</table>
+**Current Focus:** System Design, Backend Architecture & Cloud Infrastructure (Azure)<br/>
+**Always Exploring:** Python, Django & Modern Web Technologies<br/>
+**Reach Out:** [im.zairaz@gmail.com](mailto:im.zairaz@gmail.com)
 
 <br/>
 
@@ -69,9 +43,9 @@ building **scalable, performant, and visually refined** web applications.
 
 <div align="center">
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -80,7 +54,7 @@ building **scalable, performant, and visually refined** web applications.
 ![CSharp](https://img.shields.io/badge/C%23-21262d?style=for-the-badge&logo=c-sharp&logoColor=239120)
 ![PHP](https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=777BB4)
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=next.js&logoColor=white)
@@ -89,7 +63,7 @@ building **scalable, performant, and visually refined** web applications.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262d?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 
-### 🗄️ Backend & Databases
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
@@ -98,7 +72,7 @@ building **scalable, performant, and visually refined** web applications.
 ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/Firebase-21262d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
 ![Azure](https://img.shields.io/badge/Azure-21262d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
@@ -111,7 +85,7 @@ building **scalable, performant, and visually refined** web applications.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats-psi-vert.vercel.app?user=imzairaz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
@@ -131,13 +105,13 @@ building **scalable, performant, and visually refined** web applications.
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 📚 BookHaven | ⚽ Turf MS | 🏥 Nurse Hiring System |
+| BookHaven | Turf MS | HRM |
 |:--:|:--:|:--:|
-| **.NET Bookstore System** | **Smart Booking Platform** | **Caregiver Platform** |
-| Auth, inventory & sales analytics | Court booking, payments & weather | Staff scheduling & profile management |
-| ![CSharp](https://img.shields.io/badge/C%23-21262d?style=flat-square&logo=c-sharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-21262d?style=flat-square&logo=dotnet&logoColor=512BD4) | ![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) | ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=4EA94B) |
+| **.NET Bookstore System** | **Smart Booking Platform** | **HR Management System** |
+| Auth, inventory & sales analytics | Court booking, payments & weather | Employee management & payroll |
+| ![CSharp](https://img.shields.io/badge/C%23-21262d?style=flat-square&logo=c-sharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-21262d?style=flat-square&logo=dotnet&logoColor=512BD4) | ![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) | ![Next.js](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=next.js&logoColor=white) ![Node](https://img.shields.io/badge/Node-21262d?style=flat-square&logo=node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=4EA94B) |
 
 </div>
 
@@ -145,7 +119,7 @@ building **scalable, performant, and visually refined** web applications.
 
 <div align="center">
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:im.zairaz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
