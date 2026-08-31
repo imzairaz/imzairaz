@@ -63,21 +63,47 @@ Specializing in the **MERN stack** with a strong emphasis on backend architectur
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262d?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 
-### Backend & Databases
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-21262d?style=for-the-badge&logo=django&logoColor=092E20)
+![.NET](https://img.shields.io/badge/.NET-21262d?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-21262d?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Firebase](https://img.shields.io/badge/Firebase-21262d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-21262d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-### DevOps & Tools
+### DevOps & Cloud
 
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05033)
 ![Azure](https://img.shields.io/badge/Azure-21262d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-21262d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-21262d?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Vercel](https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-21262d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Jira](https://img.shields.io/badge/Jira-21262d?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Notion](https://img.shields.io/badge/Notion-21262d?style=for-the-badge&logo=notion&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-21262d?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+### AI & LLMs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-21262d?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-21262d?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![Claude](https://img.shields.io/badge/Claude-21262d?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
+![Grok](https://img.shields.io/badge/Grok-21262d?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-21262d?style=for-the-badge&logo=deepseek&logoColor=4D6BFE)
 
 </div>
 
@@ -121,6 +147,7 @@ Specializing in the **MERN stack** with a strong emphasis on backend architectur
 
 ## Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white)](https://zairaz.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:im.zairaz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/zairaz)
