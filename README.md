@@ -146,7 +146,7 @@ Specializing in the **MERN stack** with a strong emphasis on backend architectur
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white)](https://zairaz.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white)](https://zairaz.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:im.zairaz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imzairaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/zairaz)
