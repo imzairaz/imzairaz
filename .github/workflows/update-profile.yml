@@ -29,12 +29,12 @@ jobs:
       - name: Refresh stats and render themes
         run: python scripts/update_profile.py --refresh
         env:
-          GITHUB_TOKEN: ${{ secrets.ZAI_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Commit updated cards
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dark_mode.svg light_mode.svg assets/profile-stats.json
+          git add README.md dark_mode.svg light_mode.svg assets/profile-stats.json
           if ! git diff --cached --quiet; then
             git commit -m "Update profile card stats"
             git push
