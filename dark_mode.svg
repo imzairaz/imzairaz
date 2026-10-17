@@ -6,7 +6,6 @@
 <rect width="985" height="530" rx="20" fill="#101216"/>
 <g fill="#b8bfc7">
 <g id="intro-panel">
-<rect x="15.5" y="18.5" width="357" height="493" rx="10" fill="none" stroke="#b8bfc7" stroke-width="1"/>
 <text x="35" y="100" class="cc">$ whoami</text>
 <g font-size="46" font-weight="700">
 <text x="32" y="158" class="value">ZAIRAZ</text>

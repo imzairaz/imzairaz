@@ -130,7 +130,6 @@ def render(theme, stats):
         ("#101216", "#b8bfc7", "#919ba6", "#e1e4e8", "#535d69")
         if dark else ("#FFFFFF", "#57606a", "#57606a", "#24292f", "#8c959f")
     )
-    border = "#b8bfc7" if dark else "#8c959f"
     parts = [f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc" font-family="ConsolasFallback,Consolas,monospace" font-size="16">
 <title id="title">Zairaz's GitHub profile</title>
@@ -143,7 +142,6 @@ def render(theme, stats):
         parts.append(f'<text x="{x}" y="{y}" class="{css}">{escape(content)}</text>')
 
     parts.append('<g id="intro-panel">')
-    parts.append(f'<rect x="15.5" y="18.5" width="357" height="493" rx="10" fill="none" stroke="{border}" stroke-width="1"/>')
     text(35, 100, "$ whoami", "cc")
     parts.append('<g font-size="46" font-weight="700">')
     text(32, 158, "ZAIRAZ", "value")
