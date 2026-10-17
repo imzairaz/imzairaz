@@ -127,14 +127,14 @@ def detailed_stats():
 def render(theme, stats):
     dark = theme == "dark"
     bg, fg, key, value, muted = (
-        ("#161b22", "#c9d1d9", "#ffa657", "#a5d6ff", "#616e7f")
-        if dark else ("#f6f8fa", "#24292f", "#953800", "#0a3069", "#c2cfde")
+        ("#161b22", "#b8bfc7", "#919ba6", "#e1e4e8", "#535d69")
+        if dark else ("#f6f8fa", "#57606a", "#57606a", "#24292f", "#8c959f")
     )
     parts = [f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc" font-family="ConsolasFallback,Consolas,monospace" font-size="16">
 <title id="title">Zairaz's GitHub profile</title>
 <desc id="desc">Full-stack developer specializing in MERN, backend architecture, and clean user interfaces. Contact: im.zairaz@gmail.com.</desc>
-<style>@font-face{{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}} text,tspan{{white-space:pre}} .addColor{{fill:{"#3fb950" if dark else "#1a7f37"}}} .delColor{{fill:{"#f85149" if dark else "#cf222e"}}} .key{{fill:{key}}} .value{{fill:{value}}} .cc{{fill:{muted}}}</style>
+<style>@font-face{{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}} text,tspan{{white-space:pre}} .addColor,.delColor{{fill:{fg}}} .key{{fill:{key}}} .value{{fill:{value}}} .cc{{fill:{muted}}}</style>
 <rect width="985" height="530" rx="15" fill="{bg}"/>
 <g fill="{fg}">''']
 

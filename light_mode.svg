@@ -2,9 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc" font-family="ConsolasFallback,Consolas,monospace" font-size="16">
 <title id="title">Zairaz's GitHub profile</title>
 <desc id="desc">Full-stack developer specializing in MERN, backend architecture, and clean user interfaces. Contact: im.zairaz@gmail.com.</desc>
-<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%} text,tspan{white-space:pre} .addColor{fill:#1a7f37} .delColor{fill:#cf222e} .key{fill:#953800} .value{fill:#0a3069} .cc{fill:#c2cfde}</style>
+<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%} text,tspan{white-space:pre} .addColor,.delColor{fill:#57606a} .key{fill:#57606a} .value{fill:#24292f} .cc{fill:#8c959f}</style>
 <rect width="985" height="530" rx="15" fill="#f6f8fa"/>
-<g fill="#24292f">
+<g fill="#57606a">
 <g id="intro-panel">
 <text x="35" y="100" class="cc">$ whoami</text>
 <g font-size="46" font-weight="700">
@@ -13,7 +13,7 @@
 <g font-size="14">
 <text x="35" y="190" class="key">FULL-STACK DEVELOPER</text>
 </g>
-<path d="M35 222H340" stroke="#c2cfde" stroke-opacity="0.45"/>
+<path d="M35 222H340" stroke="#8c959f" stroke-opacity="0.45"/>
 <text x="35" y="264" class="value">$ cat mindset.txt</text>
 <text x="35" y="304" class="">Build with purpose.</text>
 <text x="35" y="332" class="">Keep it simple.</text>
@@ -22,7 +22,7 @@
 <text x="35" y="426" class="key">$ design &amp;&amp; develop &amp;&amp; deploy</text>
 </g>
 <text x="35" y="470" class="value">$</text>
-<rect x="56" y="457" width="8" height="15" fill="#0a3069"/>
+<rect x="56" y="457" width="8" height="15" fill="#24292f"/>
 </g>
 <text x="390" y="30" class="">zairaz@github ──────────────────────────────────────────────</text>
 <text x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">macOS</tspan></text>
