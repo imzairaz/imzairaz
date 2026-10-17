@@ -128,7 +128,7 @@ def render(theme, stats):
     dark = theme == "dark"
     bg, fg, key, value, muted = (
         ("#101216", "#b8bfc7", "#919ba6", "#e1e4e8", "#535d69")
-        if dark else ("#f6f8fa", "#57606a", "#57606a", "#24292f", "#8c959f")
+        if dark else ("#FFFFFF", "#57606a", "#57606a", "#24292f", "#8c959f")
     )
     parts = [f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc" font-family="ConsolasFallback,Consolas,monospace" font-size="16">
