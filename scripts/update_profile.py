@@ -130,12 +130,13 @@ def render(theme, stats):
         ("#101216", "#b8bfc7", "#919ba6", "#e1e4e8", "#535d69")
         if dark else ("#FFFFFF", "#57606a", "#57606a", "#24292f", "#8c959f")
     )
+    border = "#30363d" if dark else "#d1d9e0"
     parts = [f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc" font-family="ConsolasFallback,Consolas,monospace" font-size="16">
 <title id="title">Zairaz's GitHub profile</title>
 <desc id="desc">Full-stack developer specializing in MERN, backend architecture, and clean user interfaces. Contact: im.zairaz@gmail.com.</desc>
 <style>@font-face{{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}} text,tspan{{white-space:pre}} .addColor,.delColor{{fill:{fg}}} .key{{fill:{key}}} .value{{fill:{value}}} .cc{{fill:{muted}}}</style>
-<rect width="985" height="530" rx="15" fill="{bg}"/>
+<rect x="0.5" y="0.5" width="984" height="529" rx="20" fill="{bg}" stroke="{border}" stroke-width="1"/>
 <g fill="{fg}">''']
 
     def text(x, y, content, css=""):
