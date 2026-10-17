@@ -5,39 +5,24 @@
 <style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%} text,tspan{white-space:pre} .addColor{fill:#1a7f37} .delColor{fill:#cf222e} .key{fill:#953800} .value{fill:#0a3069} .cc{fill:#c2cfde}</style>
 <rect width="985" height="530" rx="15" fill="#f6f8fa"/>
 <g fill="#24292f">
-<g font-size="11.438">
-<text x="20" y="84.281" class="">                     :--:.</text>
-<text x="20" y="96.291" class="">                   -#@%#*+- .:-:.</text>
-<text x="20" y="108.301" class="">         .   .-*#%#%@@%%@%#####%%*. :-.</text>
-<text x="20" y="120.31" class="">        .*:..=%@@@@@@@@@%%%%%%@@@@*..+%-</text>
-<text x="20" y="132.32" class="">        .*@%%@@%%#@@@@@##%@@%%@@@@%%%#@@:.</text>
-<text x="20" y="144.33" class="">      :*%@@@@@@@##%@@@*%@@@@@@%@@@@%#@@@%**=</text>
-<text x="20" y="156.34" class="">     -##%@%%@@@@@@@@@#%%@@@@@#%@@@@@##@@@@%#=</text>
-<text x="20" y="168.35" class="">    .#+%@*%@@@@@@@@@#%@@@@@@@#%@@@@@%*%@@@@%*-=:</text>
-<text x="20" y="180.359" class="">    .%%@#%@@@@@@@%%##@%@@@@@@@**@@@@@##%%@@@@@=</text>
-<text x="20" y="192.369" class="">  : -@@@#%@@@@@@@@%%%%%@@@@@@@%#%@@@%%#%@@@@@@%-</text>
-<text x="20" y="204.379" class=""> =#.*%@@%%#@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@%%@#.</text>
-<text x="20" y="216.389" class=""> *@%@@%@@%#@@@@@@@@@@@@%%@@#%@@@@@@@@@@@@@@@@#+#.</text>
-<text x="20" y="228.399" class=""> :%@@@@@%#%%@@@@@@@@%%@*@@@@%@@@@@@@@@@@@@@@@@#:</text>
-<text x="20" y="240.408" class="">  #@@@@@@@@@@@%%%%%%@@@*@%@@@@@@@%#%%@@@@@%%@@@+::.</text>
-<text x="20" y="252.418" class=""> .%@@@%@@@@@@@@%@@@@@@%#%%@@@@@@@@##*%@@@@@%#@@@+:</text>
-<text x="20" y="264.428" class=""> +%@@@@@@@%%%@@@@@@@@@@%@@%@@@@#%@@%%%%@@@@@*@@@*</text>
-<text x="20" y="276.438" class=""> #*@@#%@@%-=+%@%%%%@@@#=*%#%*@@%@@%@%@@@@@%%*@+*-</text>
-<text x="20" y="288.448" class=""> .=*@%#@@* -.+*@%#%++*=*#@@%++##%#%#%@%@@@%%%@*:</text>
-<text x="20" y="300.458" class="">  :-%@%#%* ..=.-%@#  *:.:++: . #+ #*%##@%@@%--=:</text>
-<text x="20" y="312.467" class="">  -%@@@**@+  .= =%+  :+=-:..:-*=  +%+=##*%+.</text>
-<text x="20" y="324.477" class="">   :=*@%@@@#-   .::    .:-----.   .#-++-+=</text>
-<text x="20" y="336.487" class="">   ..-@@@@@@@#=++                  =-#+:.</text>
-<text x="20" y="348.497" class="">   .=#@%@@@@@@@++.               .---*-</text>
-<text x="20" y="360.507" class="">     *%%@@@@@#%+-:               ...+=:</text>
-<text x="20" y="372.516" class="">     =%###@@@@*: -:        ......  +:</text>
-<text x="20" y="384.526" class="">      :-:=@@@@@*-.-=:      :.:::: +-</text>
-<text x="20" y="396.536" class="">        -**@%@@=   .-=:       .  +-</text>
-<text x="20" y="408.546" class="">          -@@%#-     :++-       =-</text>
-<text x="20" y="420.556" class="">         .+*=:.       .=*#=....=-</text>
-<text x="20" y="432.565" class="">                       .-+#%%=-:</text>
-<text x="20" y="444.575" class="">                        .-=*#</text>
-<text x="20" y="456.585" class="">                          .*-</text>
+<g id="intro-panel">
+<text x="35" y="100" class="cc">$ whoami</text>
+<g font-size="46" font-weight="700">
+<text x="32" y="158" class="value">ZAIRAZ</text>
+</g>
+<g font-size="14">
+<text x="35" y="190" class="key">FULL-STACK DEVELOPER</text>
+</g>
+<path d="M35 222H340" stroke="#c2cfde" stroke-opacity="0.45"/>
+<text x="35" y="264" class="value">$ cat mindset.txt</text>
+<text x="35" y="304" class="">Build with purpose.</text>
+<text x="35" y="332" class="">Keep it simple.</text>
+<text x="35" y="360" class="">Make it work beautifully.</text>
+<g font-size="14">
+<text x="35" y="426" class="key">$ design &amp;&amp; develop &amp;&amp; deploy</text>
+</g>
+<text x="35" y="470" class="value">$</text>
+<rect x="56" y="457" width="8" height="15" fill="#0a3069"/>
 </g>
 <text x="390" y="30" class="">zairaz@github ──────────────────────────────────────────────</text>
 <text x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">macOS</tspan></text>

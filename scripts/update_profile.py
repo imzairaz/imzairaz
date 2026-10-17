@@ -141,13 +141,24 @@ def render(theme, stats):
     def text(x, y, content, css=""):
         parts.append(f'<text x="{x}" y="{y}" class="{css}">{escape(content)}</text>')
 
-    art = (ROOT / "assets/portrait.txt").read_text().splitlines()
-    portrait_font_size = min(14, 350 / (max(map(len, art), default=1) * 0.6))
-    portrait_line_height = min(portrait_font_size * 1.05, 470 / max(len(art), 1))
-    portrait_top = (530 - len(art) * portrait_line_height) / 2 + portrait_font_size
-    parts.append(f'<g font-size="{portrait_font_size:.3f}">')
-    for i, line in enumerate(art):
-        text(20, round(portrait_top + i * portrait_line_height, 3), line)
+    parts.append('<g id="intro-panel">')
+    text(35, 100, "$ whoami", "cc")
+    parts.append('<g font-size="46" font-weight="700">')
+    text(32, 158, "ZAIRAZ", "value")
+    parts.append('</g>')
+    parts.append('<g font-size="14">')
+    text(35, 190, "FULL-STACK DEVELOPER", "key")
+    parts.append('</g>')
+    parts.append(f'<path d="M35 222H340" stroke="{muted}" stroke-opacity="0.45"/>')
+    text(35, 264, "$ cat mindset.txt", "value")
+    text(35, 304, "Build with purpose.")
+    text(35, 332, "Keep it simple.")
+    text(35, 360, "Make it work beautifully.")
+    parts.append('<g font-size="14">')
+    text(35, 426, "$ design && develop && deploy", "key")
+    parts.append('</g>')
+    text(35, 470, "$", "value")
+    parts.append(f'<rect x="56" y="457" width="8" height="15" fill="{value}"/>')
     parts.append('</g>')
 
     def heading(y, label):
