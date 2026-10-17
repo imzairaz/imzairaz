@@ -130,19 +130,20 @@ def render(theme, stats):
         ("#101216", "#b8bfc7", "#919ba6", "#e1e4e8", "#535d69")
         if dark else ("#FFFFFF", "#57606a", "#57606a", "#24292f", "#8c959f")
     )
-    border = "#30363d" if dark else "#d1d9e0"
+    border = "#b8bfc7" if dark else "#8c959f"
     parts = [f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc" font-family="ConsolasFallback,Consolas,monospace" font-size="16">
 <title id="title">Zairaz's GitHub profile</title>
 <desc id="desc">Full-stack developer specializing in MERN, backend architecture, and clean user interfaces. Contact: im.zairaz@gmail.com.</desc>
 <style>@font-face{{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%}} text,tspan{{white-space:pre}} .addColor,.delColor{{fill:{fg}}} .key{{fill:{key}}} .value{{fill:{value}}} .cc{{fill:{muted}}}</style>
-<rect x="0.5" y="0.5" width="984" height="529" rx="20" fill="{bg}" stroke="{border}" stroke-width="1"/>
+<rect width="985" height="530" rx="20" fill="{bg}"/>
 <g fill="{fg}">''']
 
     def text(x, y, content, css=""):
         parts.append(f'<text x="{x}" y="{y}" class="{css}">{escape(content)}</text>')
 
     parts.append('<g id="intro-panel">')
+    parts.append(f'<rect x="15.5" y="18.5" width="357" height="493" rx="10" fill="none" stroke="{border}" stroke-width="1"/>')
     text(35, 100, "$ whoami", "cc")
     parts.append('<g font-size="46" font-weight="700">')
     text(32, 158, "ZAIRAZ", "value")
