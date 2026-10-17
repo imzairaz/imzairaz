@@ -29,7 +29,7 @@ jobs:
       - name: Refresh stats and render themes
         run: python scripts/update_profile.py --refresh
         env:
-          GITHUB_TOKEN: ${{ secrets.ZAI_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Commit updated cards
         run: |
           git config user.name 'github-actions[bot]'
