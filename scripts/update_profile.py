@@ -2,9 +2,11 @@
 
 import argparse
 import calendar
+import hashlib
 from datetime import date, datetime
 import json
 import os
+import re
 from pathlib import Path
 from urllib.request import Request, urlopen
 from xml.sax.saxutils import escape
@@ -216,3 +218,13 @@ if __name__ == "__main__":
         cache.write_text(json.dumps(stats, indent=2) + "\n")
     for theme in ("dark", "light"):
         (ROOT / f"{theme}_mode.svg").write_text(render(theme, stats))
+    # Change the image URL when its contents change to refresh cached embeds.
+    version = hashlib.sha256(
+        (ROOT / "dark_mode.svg").read_bytes() + (ROOT / "light_mode.svg").read_bytes()
+    ).hexdigest()[:12]
+    readme = ROOT / "README.md"
+    readme.write_text(re.sub(
+        r'((?:src|srcset)="(?:dark|light)_mode\.svg)(?:\?[^\"]*)?(")',
+        lambda match: match[1] + "?v=" + version + match[2],
+        readme.read_text(),
+    ))
