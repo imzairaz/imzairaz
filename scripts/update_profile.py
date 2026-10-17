@@ -188,21 +188,32 @@ def render(theme, stats):
     def stat_line(y, chunks):
         parts.append(f'<text x="390" y="{y}">' + ''.join(span(content, css) for content, css in chunks) + '</text>')
 
+    def pad_metric(chunks, number, end_column):
+        # The reference uses 60 monospace columns, with both pipes at column 37.
+        width = max(0, end_column - sum(len(content) for content, _ in chunks) - len(number))
+        dots = ' ' + '.' * (width - 2) + ' ' if width >= 3 else ('. ' if width == 2 else '.' * width)
+        chunks.extend([(dots, "cc"), (number, "value")])
+
     repo, contributed, stars = (metric(label) for label in ("Repos", "Contributed", "Stars"))
-    first = f". Repos: {repo} {{Contributed: {contributed}}} | Stars: {stars}"
-    padding = '.' * max(1, 58 - len(first))
-    stat_line(470, [(". ", "cc"), ("Repos", "key"), (": ", None), (repo, "value"),
-                    (" {", None), ("Contributed", "key"), (": ", None), (contributed, "value"),
-                    ("} | ", None), ("Stars", "key"), (": ", None), (padding + ' ', "cc"), (stars, "value")])
-    commits, followers = metric("Commits"), metric("Followers")
-    stat_line(490, [(". ", "cc"), ("Commits", "key"), (":", None),
-                    (' ' + '.' * max(1, 24 - len(commits)) + ' ', "cc"), (commits, "value"),
-                    (" | ", None), ("Followers", "key"), (":", None),
-                    (' ' + '.' * max(1, 7 - len(followers)) + ' ', "cc"), (followers, "value")])
+    repos_line = [(". ", "cc"), ("Repos", "key"), (":", None)]
+    contribution_suffix = f" {{Contributed: {contributed}}}"
+    pad_metric(repos_line, repo, 35 - len(contribution_suffix))
+    repos_line.extend([(" {", None), ("Contributed", "key"), (": ", None),
+                       (contributed, "value"), ("} | ", None), ("Stars", "key"), (":", None)])
+    pad_metric(repos_line, stars, 60)
+    stat_line(470, repos_line)
+
+    commits_line = [(". ", "cc"), ("Commits", "key"), (":", None)]
+    pad_metric(commits_line, metric("Commits"), 35)
+    commits_line.extend([(" | ", None), ("Followers", "key"), (":", None)])
+    pad_metric(commits_line, metric("Followers"), 60)
+    stat_line(490, commits_line)
     parts.append('<g><title>Commit and line totals: authored commits on default branches of public owned repositories. A dash means unavailable.</title>')
-    stat_line(510, [(". ", "cc"), ("Lines of Code on GitHub", "key"), (": ", None),
-                    (metric("LOC"), "value"), (" ( ", None), (metric("Additions") + "++", "addColor"),
-                    (", ", None), (metric("Deletions") + "--", "delColor"), (" )", None)])
+    code_line = [(". ", "cc"), ("Lines of Code on GitHub", "key"), (":", None)]
+    pad_metric(code_line, metric("LOC"), 34)
+    code_line.extend([(" ( ", None), (metric("Additions").rjust(7) + "++", "addColor"),
+                      (", ", None), (metric("Deletions").rjust(8) + "--", "delColor"), (" )", None)])
+    stat_line(510, code_line)
     parts.append('</g>')
     parts.append("</g></svg>\n")
     return "\n".join(parts)
