@@ -197,7 +197,25 @@ def render(theme, stats):
         return f'<tspan{attribute}>{escape(content)}</tspan>'
 
     def stat_line(y, chunks):
-        parts.append(f'<text x="390" y="{y}">' + ''.join(span(content, css) for content, css in chunks) + '</text>')
+        def section(start, stop):
+            markup = []
+            column = 0
+            for content, css in chunks:
+                piece = content[max(0, start - column):max(0, stop - column)]
+                if piece:
+                    markup.append(span(piece, css))
+                column += len(content)
+            return ''.join(markup)
+
+        separator = ''.join(content for content, _ in chunks)[36]
+        # Anchor the symbols themselves; character padding alone depends on fonts.
+        parts.append(
+            f'<text x="390" y="{y}">'
+            f'<tspan x="390" textLength="345.6" lengthAdjust="spacingAndGlyphs">{section(0, 36)}</tspan>'
+            f'<tspan x="740.4" text-anchor="middle">{escape(separator)}</tspan>'
+            f'<tspan x="745.2" text-anchor="start" textLength="220.8" lengthAdjust="spacingAndGlyphs">{section(37, 60)}</tspan>'
+            '</text>'
+        )
 
     def pad_metric(chunks, number, end_column):
         # The reference uses 60 monospace columns, with both pipes at column 37.
