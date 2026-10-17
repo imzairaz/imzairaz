@@ -3,7 +3,7 @@
 <title id="title">Zairaz's GitHub profile</title>
 <desc id="desc">Full-stack developer specializing in MERN, backend architecture, and clean user interfaces. Contact: im.zairaz@gmail.com.</desc>
 <style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%} text,tspan{white-space:pre} .addColor,.delColor{fill:#b8bfc7} .key{fill:#919ba6} .value{fill:#e1e4e8} .cc{fill:#535d69}</style>
-<rect width="985" height="530" rx="15" fill="#151b23"/>
+<rect width="985" height="530" rx="15" fill="#101216"/>
 <g fill="#b8bfc7">
 <g id="intro-panel">
 <text x="35" y="100" class="cc">$ whoami</text>
