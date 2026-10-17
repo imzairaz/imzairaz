@@ -245,8 +245,10 @@ if __name__ == "__main__":
         (ROOT / "dark_mode.svg").read_bytes() + (ROOT / "light_mode.svg").read_bytes()
     ).hexdigest()[:12]
     readme = ROOT / "README.md"
+    image_base = f"https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/master/"
     readme.write_text(re.sub(
-        r'((?:src|srcset)="(?:dark|light)_mode\.svg)(?:\?[^\"]*)?(")',
-        lambda match: match[1] + "?v=" + version + match[2],
+        r'((?:src|srcset)=")(?:https://raw\.githubusercontent\.com/[^/]+/[^/]+/[^/]+/)?'
+        r'((?:dark|light)_mode\.svg)(?:\?[^\"]*)?(")',
+        lambda match: match[1] + image_base + match[2] + "?v=" + version + match[3],
         readme.read_text(),
     ))
