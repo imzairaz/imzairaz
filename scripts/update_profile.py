@@ -221,9 +221,9 @@ def render(theme, stats):
     stat_line(490, commits_line)
     parts.append('<g><title>Commit and line totals: authored commits on default branches of public owned repositories. A dash means unavailable.</title>')
     code_line = [(". ", "cc"), ("Lines of Code on GitHub", "key"), (":", None)]
-    pad_metric(code_line, metric("LOC"), 34)
+    pad_metric(code_line, metric("LOC"), 35)
     code_line.extend([(" ( ", None), (metric("Additions").rjust(7) + "++", "addColor"),
-                      (", ", None), (metric("Deletions").rjust(8) + "--", "delColor"), (" )", None)])
+                      (", ", None), (metric("Deletions").rjust(7) + "--", "delColor"), (" )", None)])
     stat_line(510, code_line)
     parts.append('</g>')
     parts.append("</g></svg>\n")
