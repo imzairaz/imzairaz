@@ -1,6 +1,6 @@
 <a href="https://github.com/imzairaz">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/master/dark_mode.svg?v=c33c68f73e55">
-    <img alt="Zairaz’s GitHub profile — full-stack developer, skills, contact details, and GitHub stats" src="https://raw.githubusercontent.com/imzairaz/imzairaz/master/light_mode.svg?v=c33c68f73e55" width="985">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzairaz/imzairaz/master/dark_mode.svg?v=0ace191c29f0">
+    <img alt="Zairaz’s GitHub profile — full-stack developer, skills, contact details, and GitHub stats" src="https://raw.githubusercontent.com/imzairaz/imzairaz/master/light_mode.svg?v=0ace191c29f0" width="985">
   </picture>
 </a>
