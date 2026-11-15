@@ -147,7 +147,7 @@ def render(theme, stats):
     text(32, 158, "ZAIRAZ", "value")
     parts.append('</g>')
     parts.append('<g font-size="14">')
-    text(35, 190, "FULL-STACK DEVELOPER", "key")
+    text(35, 190, "Software Engineer", "key")
     parts.append('</g>')
     parts.append(f'<path d="M35 222H340" stroke="{muted}" stroke-opacity="0.45"/>')
     text(35, 264, "$ cat mindset.txt", "value")
