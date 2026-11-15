@@ -11,7 +11,7 @@
 <text x="32" y="158" class="value">ZAIRAZ</text>
 </g>
 <g font-size="14">
-<text x="35" y="190" class="key">FULL-STACK DEVELOPER</text>
+<text x="35" y="190" class="key">Software Engineer</text>
 </g>
 <path d="M35 222H340" stroke="#535d69" stroke-opacity="0.45"/>
 <text x="35" y="264" class="value">$ cat mindset.txt</text>
@@ -43,8 +43,8 @@
 <a href="https://github.com/imzairaz"><text x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">imzairaz</tspan></text></a>
 <text x="390" y="450" class="">- GitHub Stats ─────────────────────────────────────────────</text>
 <text x="390" y="470"><tspan x="390" textLength="345.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">7</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">7</tspan><tspan>} </tspan></tspan><tspan x="740.4" text-anchor="middle">|</tspan><tspan x="745.2" text-anchor="start" textLength="220.8" lengthAdjust="spacingAndGlyphs"><tspan> </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">6</tspan></tspan></text>
-<text x="390" y="490"><tspan x="390" textLength="345.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">143</tspan><tspan> </tspan></tspan><tspan x="740.4" text-anchor="middle">|</tspan><tspan x="745.2" text-anchor="start" textLength="220.8" lengthAdjust="spacingAndGlyphs"><tspan> </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">9</tspan></tspan></text>
+<text x="390" y="490"><tspan x="390" textLength="345.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">146</tspan><tspan> </tspan></tspan><tspan x="740.4" text-anchor="middle">|</tspan><tspan x="745.2" text-anchor="start" textLength="220.8" lengthAdjust="spacingAndGlyphs"><tspan> </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">9</tspan></tspan></text>
 <g><title>Commit and line totals: authored commits on default branches of public owned repositories. A dash means unavailable.</title>
-<text x="390" y="510"><tspan x="390" textLength="345.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan>:</tspan><tspan class="cc"> . </tspan><tspan class="value">77,832</tspan><tspan> </tspan></tspan><tspan x="740.4" text-anchor="middle">(</tspan><tspan x="745.2" text-anchor="start" textLength="220.8" lengthAdjust="spacingAndGlyphs"><tspan> </tspan><tspan class="addColor">111,555++</tspan><tspan>, </tspan><tspan class="delColor"> 33,723--</tspan><tspan> )</tspan></tspan></text>
+<text x="390" y="510"><tspan x="390" textLength="345.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan>:</tspan><tspan class="cc"> . </tspan><tspan class="value">77,832</tspan><tspan> </tspan></tspan><tspan x="740.4" text-anchor="middle">(</tspan><tspan x="745.2" text-anchor="start" textLength="220.8" lengthAdjust="spacingAndGlyphs"><tspan> </tspan><tspan class="addColor">111,556++</tspan><tspan>, </tspan><tspan class="delColor"> 33,724--</tspan><tspan> )</tspan></tspan></text>
 </g>
 </g></svg>
